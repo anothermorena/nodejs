@@ -12,7 +12,7 @@ is much smaller but it does have some of the propertities  as the window object.
 
 console.log(global);
 
-/* 
+/* cd 
 4.) Has common core modules that vanilla js does not have
 5.) Common Js modules instead of ES6 modules. We use require instead of import statements to load modules
 6.) Node js is missing some JS API's like fetch but we can always pull in packages into node to achieve the same results so we wont miss it that much.
