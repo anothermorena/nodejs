@@ -1,2 +1,0 @@
-20230123	12:37:52	818f2388-e340-4e7e-998b-daacfd26f5dd	log event emitted
-20230123	12:38:03	53454528-cc67-47f1-b36c-3c55ebdbdaae	log event emitted
