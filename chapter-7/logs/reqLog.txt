@@ -1,0 +1,31 @@
+20230123	18:10:02	9e46962c-84ae-4abc-8ee6-f94b67f61e5b	/	GET
+20230123	18:10:02	9ef50256-88f6-4418-9497-9cabfe5d143e	/css/style.css	GET
+20230123	18:10:08	45c47c71-a38e-4e87-910f-ad491a7bc84d	/new-page	GET
+20230123	18:10:08	a87dcaf9-a070-4e06-a798-2fd9dcdae6c3	/css/style.css	GET
+20230123	18:10:08	235c6590-e821-45ff-9f77-d917fc102b76	/img/img1.jpg	GET
+20230124	13:42:14	8a3b8f53-4b51-46f9-bfdf-485cdb8d704f	GET	undefined	/
+20230124	13:42:14	3e1783b2-ed9a-4a6c-90b3-2fc5a8a68eb6	GET	undefined	/css/style.css
+20230124	13:46:12	2113872e-7e25-498d-8efd-1f5adbf8430e	GET	undefined	/
+20230124	13:46:12	1c3e8bb7-cb33-405b-b5f7-f0dfa07addc8	GET	undefined	/css/style.css
+20230124	13:51:01	18368385-a1d9-48e9-aa6f-fbdc879b4b6c	OPTIONS	https://www.google.com	/
+20230124	13:51:01	58667109-4948-4bba-89e8-06502e5b42a2	GET	https://www.google.com	/
+20230124	13:53:58	7edfaea5-42c4-4c26-8fee-9add42410a6b	OPTIONS	https://www.google.com	/
+20230124	13:53:58	8d4e593e-054f-4114-8996-9af15e8d1486	GET	https://www.google.com	/
+20230124	14:06:18	bad9b4c8-a532-49b4-809c-bf12615a6fc4	OPTIONS	https://www.google.com	/
+20230124	14:06:18	a5535afd-e196-41b4-a139-f3bd2c88e577	GET	https://www.google.com	/
+20230124	14:06:46	b7c8cba4-735e-479c-a56c-5995a8dbc21d	OPTIONS	https://www.google.com	/
+20230124	14:06:47	d6bcdac9-3c32-44b2-a33f-52ff5cea24bb	GET	https://www.google.com	/
+20230124	14:07:10	d6f86249-2ee8-476e-9518-a336406e332a	OPTIONS	https://www.google.com	/
+20230124	14:07:10	c671111f-1bac-48b5-a941-cfbab56d4415	GET	https://www.google.com	/
+20230124	14:07:27	c6576fb5-5e07-4e46-8774-362656e869e0	OPTIONS	https://www.google.com	/
+20230124	14:07:28	329c2faa-efe5-4429-aca7-cdbf26784896	GET	https://www.google.com	/
+20230124	14:58:42	81064452-13ab-4742-8bea-13c914a9079e	GET	undefined	/
+20230124	14:59:37	2e3c088f-c110-4770-9e31-d921560acfb6	GET	undefined	/
+20230124	14:59:37	81eba8b7-bf2e-45ff-a0ac-36e590f070a8	GET	undefined	/css/style.css
+20230124	14:59:41	99925314-25e9-4224-86a1-4289ad1f39ba	GET	undefined	/css/style.css
+20230124	15:05:17	ff9236d5-96da-464a-a41b-decea579b9bd	GET	undefined	/
+20230124	15:05:36	4d5419c8-7d36-4f7a-9500-a0cc481764a7	GET	undefined	/
+20230124	15:06:04	e8dac16e-142a-4b58-b862-ceb437a737e3	GET	undefined	/
+20230124	15:06:05	0e725d48-20b3-42a7-b4c6-5404837f6a4d	GET	undefined	/css/style.css
+20230124	15:11:10	7fdeb3be-b4a3-4fbe-ad38-a6c782d76f90	GET	undefined	/dave
+20230124	15:11:11	974a957c-9126-43bf-bbee-420748a027bb	GET	undefined	/css/style.css

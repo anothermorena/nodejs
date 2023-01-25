@@ -1,0 +1,14 @@
+Middleware
+
+Middleware in Express.js is a function that executes during the request-response cycle. 
+It can perform a variety of tasks such as parsing incoming request data, handling
+authentication, and modifying the response before it is sent to the client. Middleware
+functions are executed in the order they are defined, and can either pass control to 
+the next middleware function or end the request-response cycle. Express.js includes 
+built-in middleware for tasks such as parsing JSON and handling static files, and
+developers can also create their own custom middleware.
+
+A middleware is really anything between the request and the response. Route handlers
+we created in the previous chapter are middleware too. There re three types of middleware.
+There is built-in, custom and third party middlewares. The custom middleware is what we create 
+ourselves.
